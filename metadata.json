@@ -1,0 +1,6 @@
+{
+  "name": "Kenil Tech Logistics Console",
+  "description": "Freight & Logistics Management Console with dual-role simulation and complete cPanel PHP/MySQL Export tools.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
